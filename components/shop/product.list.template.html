@@ -4,20 +4,20 @@
         <div class="row">
 
 
-            <div class="col-sm-3">
+            <!--div class="col-sm-3">
                 <div class="left-sidebar">
                     <sidebar></sidebar>
                 </div>
-            </div>
+            </div --> 
 
-            <div class="col-sm-9 padding-right">
+            <div class="col-sm-12 padding-right">
                 <div class="features_items">
                     <h2 class="title text-center">Features Items</h2>
                     <div class="col-sm-4" ng-repeat="item in $ctrl.products">
                         <div class="product-image-wrapper">
                             <div class="single-products">
                                 <div class="productinfo text-center">
-                                    <img ng-src="{{item.imgUrl}}" alt="" />
+                                    <img ng-src="{{item.imgUrl}}" alt="" class="product-image" />
                                     <h2>{{item.price | currency}}</h2>
                                     <p>{{item.description}}</p>
                                     <a href="#" class="btn btn-default add-to-cart"><i
