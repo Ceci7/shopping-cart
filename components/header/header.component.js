@@ -25,7 +25,7 @@
                 name: "Home",
                 href: "home"
             },
-            {
+            /*{
                 name: "Shop",
                 href: "",
                 hasChilds: true,
@@ -38,7 +38,7 @@
             {
                 name: "Blog",
                 href: "blogger"
-            },
+            },*/
             {
                 name: "Contact",
                 href: "contact"

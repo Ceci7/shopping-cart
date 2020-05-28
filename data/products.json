@@ -2,7 +2,7 @@
     {
         "id": 1,
         "imgUrl": "images/cakes/1.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "imgUrl": "images/cakes/2.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "imgUrl": "images/cakes/3.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "imgUrl": "images/cakes/4.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "imgUrl": "images/cakes/5.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "imgUrl": "images/cakes/6.jpeg",
-        "price": 56,
+        "price": 25,
         "description": "Easy Polo Black Edition",
         "isNew": false,
         "isSale": false
