@@ -38,11 +38,11 @@
             {
                 name: "Blog",
                 href: "blogger"
-            },*/
+            },
             {
                 name: "Contact",
                 href: "contact"
-            }
+            }*/
         ]
     }
 }(angular))
